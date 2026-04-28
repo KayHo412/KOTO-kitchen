@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e80df5ba3d445f5abc26052a2c2a1c, type: 3}
+  m_Name: LohikeittoData
+  m_EditorClassIdentifier: Assembly-CSharp::RecipeData
+  dishName: Lohikeitto
+  finalDishSprite: {fileID: 9010712292471795396, guid: 2249583db8c474cf883b195589c52e92, type: 3}
+  ingredients:
+  - ingredientName: Potato
+    icon: {fileID: 718419393947593034, guid: 000e303b59ebe48fb966aea15f718f73, type: 3}
+    amountRequired: 2
+    rawPrefab: {fileID: 8257052514532523419, guid: 0f791e15b7699467eb503c945fb426d5, type: 3}
+    requiredTag: CutIngredient
+  - ingredientName: Carrot
+    icon: {fileID: -5859083586626064994, guid: 6ea0f6d01b8b9489988a18dba489e048, type: 3}
+    amountRequired: 2
+    rawPrefab: {fileID: 8342168754687455755, guid: b4b559b6017a9402296a204cff8f999d, type: 3}
+    requiredTag: CutIngredient
+  - ingredientName: SalmonWhole 1
+    icon: {fileID: -4245115421914641055, guid: f769b851150a24001b58e7e0f94d018a, type: 3}
+    amountRequired: 1
+    rawPrefab: {fileID: 9058148222384587525, guid: 25135fd8890654aa483b1c73eeefe7ce, type: 3}
+    requiredTag: CutIngredient
+  - ingredientName: RuokaKerma
+    icon: {fileID: -8006478596612066938, guid: c9d54c7ff0100445da24024d8c66b97a, type: 3}
+    amountRequired: 1
+    rawPrefab: {fileID: 934390703776553895, guid: b4da596ed0c814dd1820f75c11b80b58, type: 3}
+    requiredTag: CutIngredient
+  - ingredientName: Dill
+    icon: {fileID: -4313909710954840332, guid: 2b2dba9d537c14d928e1216b70489a73, type: 3}
+    amountRequired: 1
+    rawPrefab: {fileID: 5510909554701259296, guid: bad75f2de7b6749549331749b8845aa3, type: 3}
+    requiredTag: CutIngredient
+  requiredStirAmount: 100
+  soupColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}

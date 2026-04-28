@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Knife
+  - Ingredient
+  - WaterSource
+  - CutIngredient
+  - Permanent
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2708989667
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ingredient
+    uniqueID: 3283283369
+    locked: 0
+  - name: Tools
+    uniqueID: 3548102759
+    locked: 0
+  - name: Tools 2
+    uniqueID: 1528811013
+    locked: 0
+  - name: Effect
+    uniqueID: 2821239809
+    locked: 0
+  - name: Bullet
+    uniqueID: 1981764595
+    locked: 0
+  m_RenderingLayers:
+  - Default
