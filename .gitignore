@@ -109,3 +109,5 @@ InitTestScene*.unity*
 .plastic/
 ignore.conf
 .DS_Store
+Library/
+Library_OLD/
