@@ -1,9 +1,12 @@
 # KOTO-Kitchen
 
-**KOTO-Kitchen** is an interactive, culinary-themed game designed specifically for touch-based tablet devices. Players engage in simulated kitchen workflows, focusing on precision and timing to complete various cooking tasks.
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+**KOTO-Kitchen** is an interactive, culinary-themed game designed specifically for touch-based tablet devices. Players engage in simulated kitchen workflows, focusing on precision and timing to com[...]
 
 ## Project Description
-KotoKitchen was developed as a solo final project to explore the intersection of intuitive touch mechanics and user experience design. The game focuses on an "old-age friendly" design, ensuring that the interface is accessible, easy to read, and simple to navigate on a tablet. The gameplay loop centers on managing kitchen stations, where the player must interact with various tools—specifically knives and other prep equipment—using gestural controls to complete complex recipes. More detail can be find in **About Section** in-game.
+KotoKitchen was developed as a solo final project to explore the intersection of intuitive touch mechanics and user experience design. The game focuses on an "old-age friendly" design, ensuring tha[...]
 
 ## Key Features
 * **Touch-Optimized Interaction:** Mechanics built from the ground up for tablet screens, prioritizing large hit targets and clear visual feedback.
