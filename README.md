@@ -22,7 +22,7 @@ KotoKitchen was developed as a solo final project to explore the intersection of
 During development, a technical limitation was identified regarding the target hardware:
 * The provided tablet operates on **Android 7.0 (API 24)**.
 * Due to internal build requirements and Unity environment compatibility, the minimum stable build target is **Android 7.1 (API 25)**.
-* Consequently, the project is fully functional on modern Android devices, though it cannot be parsed by the legacy Android 7.0 tablet hardware.
+* Can be play only in web version via **itch.io**.
 
 ## Access the Game
 You can experience the finished build of KotoKitchen by accessing the link below:
