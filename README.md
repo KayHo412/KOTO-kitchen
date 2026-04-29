@@ -3,10 +3,10 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-**KOTO-Kitchen** is an interactive, culinary-themed game designed specifically for touch-based tablet devices. Players engage in simulated kitchen workflows, focusing on precision and timing to com[...]
+**KOTO-Kitchen** is an interactive, culinary-themed game designed specifically for touch-based tablet devices. Players complete simulated kitchen workflows that emphasize precision, timing, and clear touch feedback.
 
 ## Project Description
-KotoKitchen was developed as a solo final project to explore the intersection of intuitive touch mechanics and user experience design. The game focuses on an "old-age friendly" design, ensuring tha[...]
+KotoKitchen was developed as a solo final project to explore the intersection of intuitive touch mechanics and user experience design. The game emphasizes an **older-adult friendly** approach by using large touch targets, straightforward interactions, and high-contrast visuals to reduce frustration and improve accessibility.
 
 ## Key Features
 * **Touch-Optimized Interaction:** Mechanics built from the ground up for tablet screens, prioritizing large hit targets and clear visual feedback.
@@ -25,7 +25,7 @@ KotoKitchen was developed as a solo final project to explore the intersection of
 During development, a technical limitation was identified regarding the target hardware:
 * The provided tablet operates on **Android 7.0 (API 24)**.
 * Due to internal build requirements and Unity environment compatibility, the minimum stable build target is **Android 7.1 (API 25)**.
-* Can be play only in web version via **itch.io**.
+* The game can only be played as a web build via **itch.io**.
 
 ## Access the Game
 You can experience the finished build of KotoKitchen by accessing the link below:
